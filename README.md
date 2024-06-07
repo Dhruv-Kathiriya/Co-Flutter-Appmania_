@@ -133,21 +133,34 @@ Flutter concepts.
 
 ## Output:
 
+
+
+
+<img src = "https://github.com/Dhruv-Kathiriya/Co-Flutter-Appmania_/assets/150034575/0a009395-122e-42c3-9761-ca1dcc771c3c" width = "250">
+
+
+<img src = "https://github.com/Dhruv-Kathiriya/Co-Flutter-Appmania_/assets/150034575/cb41f4e7-c087-4e18-baf7-9f354d3c9bf4" width = "250">
+
+<img src = "https://github.com/Dhruv-Kathiriya/Co-Flutter-Appmania_/assets/150034575/90148c57-0780-40e0-be48-3079ba3c5562" width = "250">
+
+<img src = "https://github.com/Dhruv-Kathiriya/Co-Flutter-Appmania_/assets/150034575/e3dcdbcb-e03a-463e-b50e-62771dca3129" width = "250">
+
+<img src = "https://github.com/Dhruv-Kathiriya/Co-Flutter-Appmania_/assets/150034575/bb21ff9f-ba43-47ba-8ace-5b9ca511dccd" width = "250">
+
+<img src = "https://github.com/Dhruv-Kathiriya/Co-Flutter-Appmania_/assets/150034575/a153f474-441e-494f-92ef-a4e60acdd126" width = "250">
+
+<img src = "https://github.com/Dhruv-Kathiriya/Co-Flutter-Appmania_/assets/150034575/197b65ee-ad32-4b02-abeb-7fdca59e1607" width = "250">
+
+<img src = "https://github.com/Dhruv-Kathiriya/Co-Flutter-Appmania_/assets/150034575/d83a8ba2-624f-4a53-a3bb-d7bb46829732" width = "250">
+
+<img src = "https://github.com/Dhruv-Kathiriya/Co-Flutter-Appmania_/assets/150034575/db06088d-792f-4715-bced-7aea31d085f1" width = "250">
+
 <br>
 
-### Video:
 
 
 <br>
 
+<vedio src ="">
 
-<img src = "" width = "">![Uploading Appmania1.png…]()
 
-<img src = "" width = "">
-<img src = "" width = "">
-<img src = "" width = "">
-<img src = "" width = "">
-<img src = "" width = "">
-<img src = "" width = "">
-<img src = "" width = "">
-<img src = "" width = "">
